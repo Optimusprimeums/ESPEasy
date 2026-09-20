@@ -10,7 +10,7 @@ click==8.0.3
 colorama==0.4.4
 commonmark==0.9.1        
 docutils==0.17.1
-idna==3.3
+idna==3.15
 imagesize==1.2.0
 Jinja2==3.0.2
 livereload==2.6.3
